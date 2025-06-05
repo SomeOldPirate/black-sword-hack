@@ -9,7 +9,7 @@
             "ko-fi": "peterwood"
         }
     ],
-  "version": "1.2.13",
+  "version": "1.2.11",
   "compatibility": {
     "minimum": 12,
     "verified": "12.325"
@@ -35,6 +35,6 @@
     "systems": [],
     "requires": []
   },
-  "manifest": "https://someoldpirate.github.io/black-sword-hack/system.json",
-  "download": "https://someoldpirate.github.io/black-sword-hack/black-sword-hack-custom.zip"
+  "manifest": "https://someoldpirate.github.io/black-sword-hack/master/system.json",
+  "download": "https://someoldpirate.github.io/black-sword-hack/master/black-sword-hack-custom.zip"
 }
